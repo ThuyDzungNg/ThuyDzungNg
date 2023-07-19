@@ -8,6 +8,7 @@ Summary of my skills:
 - Reports and policy advisory
 
 Technical skills: Microsoft Excel, Stata, SQL, Python, R
+
 Visualization tools: PowerPoint, Power BI, Tableau
 
 If you are interested in collaborating with me, please feel free to email me at **dzung.nt.3004@gmail.com** or contact me through my LinkedIn profile: **https://www.linkedin.com/in/thuy-dung-nguyen-2a807713a/**
